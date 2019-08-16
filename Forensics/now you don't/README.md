@@ -13,7 +13,8 @@ Forensics
 >Is it really all one shade of red?
 
 ## Solution
-To do.
+Use stegsolve - available here: https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
+Arrow across until you reach Red Plane 1 - flag is disaplyed.
 
 ### Flag
-`flag`
+picoCTF{n0w_y0u_533_m3}
