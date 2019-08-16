@@ -19,7 +19,10 @@ Forensics
 >[bvi](http://manpages.ubuntu.com/manpages/natty/man1/bvi.1.html)
 
 ## Solution
-To do.
+strings hex_editor.jpg shows the flag at the bottom.
+xxd hex_editor.jpg also shows the same in ASCII but also a hex dump.
+Need to include the quotes with this flag for some reason.
 
 ### Flag
-`flag`
+"picoCTF{and_thats_how_u_edit_hex_kittos_dF817ec5}"
+
